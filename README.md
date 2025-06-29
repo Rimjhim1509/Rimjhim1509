@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Rimjhim1509
-- 👀 I’m interested in web development projects
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on github account
-- 😄 Pronouns: SHE/HER
+<h2 align="center">Hey there! 👋 I'm Rimjhim Patidar</h2>
 
+<p align="center">🚀 A passionate learner, coder, and future tech trailblazer!</p>
 
-<!---
-Rimjhim1509/Rimjhim1509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🌱 About Me
+
+- 🎓 Postgraduate student | Exploring **Machine Learning**, **JavaScript**, and **React**
+- 💡 Working on: Personal Projects | AI Chatbots | DOM Games | Learning ML Algorithms from scratch
+- 📚 Solving 150+ DSA problems on LeetCode using **JavaScript**
+- 🧠 Interested in: **Generative AI**, **Web Dev**, **Three.js**, and **Computer Networks**
+
+- 🗓️ Studying every day to be 1% better than yesterday!
+
