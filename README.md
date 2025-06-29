@@ -6,7 +6,7 @@
 
 ### 🌱 About Me
 
-- 🎓 Postgraduate student | Exploring **Machine Learning**, **JavaScript**, and **React**
+- 🎓Pre-Graduate Student | Exploring **Machine Learning**, **JavaScript**, and **React**
 - 💡 Working on: Personal Projects | AI Chatbots | DOM Games | Learning ML Algorithms from scratch
 - 📚 Solving 150+ DSA problems on LeetCode using **JavaScript**
 - 🧠 Interested in: **Generative AI**, **Web Dev**, **Three.js**, and **Computer Networks**
